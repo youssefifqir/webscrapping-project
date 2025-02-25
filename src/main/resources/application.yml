@@ -1,0 +1,6 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 50MB
+  server:
+    port: 8036  # Change this to any port number you prefer
